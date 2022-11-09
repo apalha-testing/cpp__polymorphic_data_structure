@@ -1,0 +1,8 @@
+# Ignore binary files
+
+# Ignore build code
+examples/example_eos_polymorphism
+
+# Ignore the built libraries
+eos/libeos_polymorphism.a
+eos/build/
